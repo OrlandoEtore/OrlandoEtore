@@ -36,5 +36,9 @@ Olá! Tenho grande interesse por tecnologia e desenvolvimento de software, sempr
     </td>
   </tr>
 </table>
-
 ---
+## 📄 Currículo
+
+Você pode baixar meu currículo atualizado clicando no link abaixo:
+
+[📥 Baixar Currículo (PDF)](./Curriculo-Orlando-(6).pdf)
