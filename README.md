@@ -11,18 +11,6 @@
 
 Olá! Sou apaixonado por tecnologia e desenvolvimento de software. Durante minha trajetória acadêmica e profissional, desenvolvi habilidades em **Python, Django, HTML, CSS, JavaScript e PostgreSQL**, criando soluções práticas e eficientes para problemas reais.
 
-Atualmente, foco no desenvolvimento de sistemas web que otimizam processos, como controle de estoque com geração de PDFs de responsabilidade e fluxo de aprovação.
-
----
-- 🛠️ Django, PostgreSQL, ReportLab
-- ✅ Aprovação de retiradas
-- 📄 Geração de PDFs com assinatura e logotipo
-- 🔒 Controle de acesso por tipo de usuário
-
-[🔗 Veja o projeto no GitHub](https://github.com/orlandoetore/nome-do-repo)
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
