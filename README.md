@@ -9,7 +9,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou apaixonado por tecnologia e desenvolvimento de software. Durante minha trajetória acadêmica e profissional, desenvolvi habilidades em **Python, Django, HTML, CSS, JavaScript e PostgreSQL**, criando soluções práticas e eficientes para problemas reais.
+Olá! Tenho grande interesse por tecnologia e desenvolvimento de software, sempre buscando soluções práticas para problemas do dia a dia.. Durante minha trajetória acadêmica e profissional, desenvolvi habilidades em **Python, Django, HTML, CSS, JavaScript e PostgreSQL**, criando soluções práticas e eficientes para problemas reais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -26,6 +26,8 @@ Olá! Sou apaixonado por tecnologia e desenvolvimento de software. Durante minha
 
 ## 📈 Estatísticas do GitHub
 
-![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoetore&show_icons=true&theme=dracula)
+![Orlando Etore GitHub Stats](https://github-readme-stats.vercel.app/api?username=orlandoetore&show_icons=true&theme=github_dark&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoetore&layout=compact&theme=github_dark&locale=pt-br)
 
 ---
