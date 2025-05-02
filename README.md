@@ -9,7 +9,9 @@
 
 ## 👋 Sobre mim
 
-Olá! Tenho grande interesse por tecnologia e desenvolvimento de software, sempre buscando soluções práticas para problemas do dia a dia.. Durante minha trajetória acadêmica e profissional, desenvolvi habilidades em **Python, Django, HTML, CSS, JavaScript e PostgreSQL**, criando soluções práticas e eficientes para problemas reais.
+Olá! Tenho grande interesse por tecnologia e desenvolvimento de software, sempre buscando soluções práticas para problemas do dia a dia. Estou em constante aprendizado e atualmente me dedicando ao estudo e aperfeiçoamento de tecnologias como **Python, Django, HTML, CSS, JavaScript e PostgreSQL**.
+
+Durante minha trajetória acadêmica e profissional, desenvolvi projetos que aplicam essas ferramentas na criação de soluções eficientes e funcionais para necessidades reais.
 
 ## 🛠️ Tecnologias e Ferramentas
 
