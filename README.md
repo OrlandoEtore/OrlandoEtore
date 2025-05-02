@@ -29,12 +29,3 @@ Olá! Sou apaixonado por tecnologia e desenvolvimento de software. Durante minha
 ![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandoetore&show_icons=true&theme=dracula)
 
 ---
-
-## 🤝 Vamos conversar?
-
-Se você busca alguém comprometido com soluções práticas e que ama aprender, entre em contato comigo!
-
-📧 orlandoetore@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-🌐 [orlandoetore.github.io](https://orlandoetore.github.io)
-
