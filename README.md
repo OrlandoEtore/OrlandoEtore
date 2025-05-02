@@ -2,9 +2,8 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos  
 📍 Carlópolis - PR | 🇧🇷 Brasil  
-📧 orlandoetore@gmail.com  
-🌐 [orlandoetore.github.io](https://orlandoetore.github.io)  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [GitHub](https://github.com/orlandoetore)
+
+
 
 ---
 
