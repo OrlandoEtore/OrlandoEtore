@@ -26,8 +26,6 @@ Olá! Tenho grande interesse por tecnologia e desenvolvimento de software, sempr
 
 ## 📈 Estatísticas do GitHub
 
-## 📈 Estatísticas do GitHub
-
 <table>
   <tr>
     <td>
