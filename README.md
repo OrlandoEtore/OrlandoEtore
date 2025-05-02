@@ -26,8 +26,17 @@ Olá! Tenho grande interesse por tecnologia e desenvolvimento de software, sempr
 
 ## 📈 Estatísticas do GitHub
 
-![Orlando Etore GitHub Stats](https://github-readme-stats.vercel.app/api?username=orlandoetore&show_icons=true&theme=github_dark&locale=pt-br)
+## 📈 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoetore&layout=compact&theme=github_dark&locale=pt-br)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=orlandoetore&show_icons=true&theme=github_dark&locale=pt-br" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orlandoetore&layout=compact&theme=github_dark&locale=pt-br" />
+    </td>
+  </tr>
+</table>
 
 ---
