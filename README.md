@@ -39,9 +39,4 @@ Durante minha trajetória acadêmica e profissional, desenvolvi projetos que apl
   </tr>
 </table>
 ---
-## 📄 Currículo
-
-Você pode baixar meu currículo atualizado clicando no link abaixo:
-
-[📥 Baixar Currículo (PDF)](./Curriculo-Orlando.pdf)
 
