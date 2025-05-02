@@ -14,13 +14,6 @@ Olá! Sou apaixonado por tecnologia e desenvolvimento de software. Durante minha
 Atualmente, foco no desenvolvimento de sistemas web que otimizam processos, como controle de estoque com geração de PDFs de responsabilidade e fluxo de aprovação.
 
 ---
-
-## 💼 Projetos em destaque
-
-### 📦 Sistema de Controle de Estoque com Django
-
-Sistema para empresas de telecomunicação registrarem a retirada de itens por técnicos, com aprovação de administrador e geração automática de termos de responsabilidade em PDF.
-
 - 🛠️ Django, PostgreSQL, ReportLab
 - ✅ Aprovação de retiradas
 - 📄 Geração de PDFs com assinatura e logotipo
